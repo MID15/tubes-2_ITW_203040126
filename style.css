@@ -1,4 +1,5 @@
 body {
+    overflow-x: hidden;
 }
 .slider h3, .slider h5 {
     text-shadow: 1px 1px 3px rgba(1, 0, 0, 0.5);

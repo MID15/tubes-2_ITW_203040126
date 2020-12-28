@@ -1,6 +1,7 @@
 body {
     overflow-x: hidden;
 }
+
 .slider h3, .slider h5 {
     text-shadow: 1px 1px 3px rgba(1, 0, 0, 0.5);
 }
@@ -9,6 +10,11 @@ body {
     height: 50px;
     margin-top: 5px;
 }
+
+nav a {
+    font-family: 'Poppins', sans-serif;
+}
+
 .parallax-container {
     height: 20%;
 }
@@ -31,9 +37,18 @@ body {
     text-shadow: 1px 1px 1px black;
 }
 
+.home h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
 .about {
     margin-top: 40px;
 }
+
 .clients h3 {
     text-shadow: 1px 1px 3px rgba(1, 0, 0, 0.5);
 }
@@ -44,20 +59,21 @@ body {
 }
 
 section, footer {
-    padding: 5px 0;
+    padding: 3px;
 }
 
-.portfolio h4 {
-    margin-bottom: 20px;
-}
-
-.portfolio img {
-    margin-bottom: 20px;
-}
-
-.portfolio {
+.works {
     background-image: url(img/bg/2.jpg);
     margin-top: -40px;
+}
+
+.works h4 {
+    margin-bottom: 20px;
+}
+
+.works img {
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5)  ;
 }
 
 .carousel img {
@@ -72,6 +88,14 @@ section, footer {
 .contact img {
     width: 60px;
     margin: 20px;
+}
+
+.carousel h5, p {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+h3, h4, h5 {
+    font-family: 'Bebas Neue', cursive;
 }
 
 /* Responsive */

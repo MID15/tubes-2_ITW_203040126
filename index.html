@@ -122,8 +122,18 @@
       <section class="works scrollspy" id="works">
         <div class="container">
           <h3 class="light center white-text">Our Works</h3>
+          <a class="waves-effect waves-light modal-trigger" href="#modal1"><h4>Realistified</h4></a>
+          <div id="modal1" class="modal">
+            <div class="modal-content">
+              <h4>Realistified</h4>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quis rerum animi neque aliquam earum expedita nam saepe adipisci sed.</p>
+            </div>
+            <div class="modal-footer">
+              <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+            </div>
+          </div>
           <div class="row">
-            <h4 class="white-text">Realistified</h4>
+            <!-- <h4 class="white-text">Realistified</h4> -->
             <div class="col m4 s12">
               <img src="img/our works/realistified/1.png" alt="" class="responsive-img materialboxed">
             </div>
@@ -133,8 +143,18 @@
             <div class="col m4 s12">
               <img src="img/our works/realistified/3.png" alt="" class="responsive-img materialboxed">
             </div>
+            <a class="waves-effect waves-light modal-trigger" href="#modal1"><h4>Poster Remake</h4></a>
+            <div id="modal1" class="modal">
+              <div class="modal-content">
+                <h4>Poster Remake</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quis rerum animi neque aliquam earum expedita nam saepe adipisci sed.</p>
+              </div>
+              <div class="modal-footer">
+                <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+              </div>
+            </div>
           <div class="row">
-            <h4 class="white-text">Poster Remake</h4>
+            <!-- <h4 class="white-text">Poster Remake</h4> -->
             <div class="col m4 s12">
               <img src="img/our works/poster/1.png" alt="" class="responsive-img materialboxed">
             </div>
@@ -144,8 +164,18 @@
             <div class="col m4 s12">
               <img src="img/our works/poster/3.png" alt="" class="responsive-img materialboxed">
             </div>
+            <a class="waves-effect waves-light modal-trigger" href="#modal1"><h4>Editing Your Photos</h4></a>
+            <div id="modal1" class="modal">
+              <div class="modal-content">
+                <h4>Editing Your Photos</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quis rerum animi neque aliquam earum expedita nam saepe adipisci sed.</p>
+              </div>
+              <div class="modal-footer">
+                <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+              </div>
+            </div>
           <div class="row">
-            <h4 class="white-text">Editing Your Photos</h4>
+            <!-- <h4 class="white-text">Editing Your Photos</h4> -->
             <div class="col m4 s12">
               <img src="img/our works/editing/1.png" alt="" class="responsive-img materialboxed">
             </div>
@@ -227,7 +257,6 @@
           </div>
         </div>
       </section>
-
       <!-- Footer -->
       <footer class="white-text center deep-purple darken-4">
         <p class=>Mochamad Indra Wahyudi. &copy;2020</p>
@@ -261,6 +290,9 @@
         
         const Carousel = document.querySelectorAll('.carousel');
         M.Carousel.init(Carousel);
+
+        const Modal = document.querySelectorAll('.modal');
+        M.Modal.init(Modal);
       </script>
     </body>
   </html>

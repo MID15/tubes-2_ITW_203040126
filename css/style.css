@@ -25,7 +25,7 @@ nav a {
     z-index: -1;
 }
 
-.home .container img {
+.home .logo {
     width: 30%;
 }
 
@@ -85,14 +85,6 @@ section, footer {
     width: 60px;
     margin: 20px;
 }
-
-h3 {
-    font-size: 60px;   
-}
-
-.contact h5 {
-    font-family: 'Roboto', sans-serif;
-}   
 
 .carousel h5, p {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);

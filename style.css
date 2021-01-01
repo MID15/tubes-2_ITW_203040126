@@ -42,7 +42,9 @@ section, footer {
 }
 
 .works {
-    background-image: url(img/bg/2.jpg);
+    background-image: url(assets/img/slider/5.jpg);
+}
+.works {
     margin-top: -40px;
 }
 

@@ -1,0 +1,47 @@
+Assets
+IMG:
+    clients:
+        1.jpg (property of unsplash.com) 
+        2.jpg (property of unsplash.com)
+        3.jpg (property of unsplash.com)  
+
+    bg:
+        1. jpg (property of unsplash.com)
+ 
+    icons:
+       bxd-facebook-circle.svg (property of boxicons.com)
+       bxd-instagram-alt.svg (property of boxicons.com)
+       bxd-twitter.svg (property of boxicons.com) 
+
+    logo:
+        logo.png (property of wix.com)
+
+    our works:
+        editing:
+        1.png (property of youtube.com/bennyproductions) 
+        2.png (property of youtube.com/bennyproductions)
+        3.png (property of youtube.com/bennyproductions)
+        poster:
+        1.png (property of youtube.com/bennyproductions)
+        2.png (property of youtube.com/bennyproductions)
+        3.png (property of youtube.com/bennyproductions)
+        realistified:
+        1.png (property of youtube.com/bennyproductions)
+        2.png (property of youtube.com/bennyproductions)
+        3.png (property of youtube.com/bennyproductions)
+
+    services:
+        1.gif (property of youtube.com/bennyproductions)
+        2.jpg (property of youtube.com/bennyproductions)
+        3.gif (property of youtube.com/bennyproductions)
+
+    slider:
+        1.jpg (property of unsplash.com)
+        2.jpg (property of unsplash.com)
+        3.jpg (property of unsplash.com)
+        4.jpg (property of unsplash.com)
+
+Fonts:
+    Roboto (property of google fonts)
+    Bebas Neue (property of google fonts)
+    Montserrat (property of google fonts)
